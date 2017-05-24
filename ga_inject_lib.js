@@ -3,7 +3,7 @@
  * @type String
  */
 if (typeof(GA_TRACE_CODE) === "undefined") {
-    GA_TRACE_CODE = "UA-89833109-1";
+    GA_TRACE_CODE = "UA-99869329-1";
 }
 
 /**
