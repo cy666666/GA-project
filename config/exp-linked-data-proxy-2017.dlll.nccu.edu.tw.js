@@ -22,6 +22,8 @@ else {
 var exec = function () {
     //GL1-3 click
     //ga_mouse_click_event('a[title="臺北旅遊網"]', "GL1-3");
+    ga_mouse_click_event('.autoanno_tooltip', "test123465");
+    //ga_mouse_click_event('.tooltipstered', "test");
     ga_mouse_click_event('button[data-module="zh.wikipedia.org"]', "查詢維基");
     ga_mouse_click_event('button[data-module="www.moedict.tw"]', "查詢萌典");
     ga_mouse_click_event('button[data-module="cdict.net"]', "查詢字典");
